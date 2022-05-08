@@ -34,6 +34,7 @@ public:
             delete first;      // 처음 head의 주소를 저장했던 first를 delete를 사용하여 메모리블록 할당취소를 해줌
         }
     }
+
     struct singly_ll_iterator
     {
     private:
